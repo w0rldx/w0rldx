@@ -1,10 +1,10 @@
 # 💫About Me :
-💻 Working on many project's
-🎓 Currently learning Rust
-☕️ Coffee/Tea Lover
-🐧 Linux user
-👨‍🎓 Student
-🎮 Gamer
+💻 Working on many project's<br/>
+🎓 Currently learning Rust<br/>
+☕️ Coffee/Tea Lover<br/>
+🐧 Linux user<br/>
+👨‍🎓 Student<br/>
+🎮 Gamer<br/>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/W0rlD#0001) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WorlD_GaMeR) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/w0rld_x) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/w0rld_x) 
