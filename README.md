@@ -1,4 +1,4 @@
-# 💫About Me :
+## 💫About Me :
 
 🎓 Learning Rust  
 ☕️ Coffee/Tea Lover  
