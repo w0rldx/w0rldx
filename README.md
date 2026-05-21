@@ -1,9 +1,88 @@
-## 💫About Me :
+<div align="center">
 
-🎓 Learning Rust  
-☕️ Coffee/Tea Lover  
-🐧 Linux user  
-🎮 Gamer  
+```txt
+██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗  ██╗
+██║    ██║██╔═████╗██╔══██╗██║     ██╔══██╗╚██╗██╔╝
+██║ █╗ ██║██║██╔██║██████╔╝██║     ██║  ██║ ╚███╔╝ 
+██║███╗██║████╔╝██║██╔══██╗██║     ██║  ██║ ██╔██╗ 
+╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╔╝ ██╗
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝
+```
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/197057754815266818) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WorlD_GaMeR) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/w0rld_x) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/w0rld_x) 
+# W0rlDx
+
+**Full-stack development · backend systems · frontend apps · automation**
+
+</div>
+
+---
+
+## 🧩 Profile
+
+```txt
+w0rldx/
+├─ 👨‍💻 developer
+│  ├─ full-stack development
+│  ├─ backend systems
+│  ├─ frontend applications
+│  └─ automation
+│
+├─ 🧠 interests
+│  ├─ software architecture
+│  ├─ AI tooling
+│  ├─ local-first systems
+│  └─ self-hosted infrastructure
+│
+├─ 🐧 environment
+│  ├─ Linux user
+│  ├─ Docker enjoyer
+│  └─ terminal-friendly workflow
+│
+└─ ☕ misc
+   ├─ coffee / tea
+   ├─ gaming
+   └─ currently learning Rust
+```
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+stack/
+├─ 🔤 languages
+│  ├─ C#
+│  ├─ TypeScript
+│  ├─ JavaScript
+│  ├─ Python
+│  ├─ Rust
+│  └─ Shell
+│
+├─ ⚙️ backend
+│  ├─ ASP.NET Core
+│  ├─ Entity Framework Core
+│  ├─ REST APIs
+│  └─ SignalR
+│
+├─ 🎨 frontend
+│  ├─ React
+│  ├─ TypeScript
+│  ├─ Mantine UI
+│  └─ Markdown
+│
+├─ 🗄️ databases
+│  ├─ PostgreSQL
+│  └─ SQLite
+│
+├─ 🧱 infrastructure
+│  ├─ Linux
+│  ├─ Docker
+│  ├─ WSL
+│  └─ self-hosted tools
+│
+└─ 🤖 ai-tooling
+   ├─ Azure AI
+   ├─ Ollama
+   ├─ RAG
+   └─ agent workflows
+```
