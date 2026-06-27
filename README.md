@@ -11,7 +11,7 @@
 
 # W0rlDx
 
-**Full-stack development · backend systems · frontend apps · automation**
+**Full-stack web development · software architecture · automation · AI tooling**
 
 </div>
 
@@ -22,26 +22,27 @@
 ```txt
 w0rldx/
 ├─ 👨‍💻 developer
-│  ├─ full-stack development
-│  ├─ backend systems
-│  ├─ frontend applications
-│  └─ automation
+│  ├─ full-stack web developer
+│  ├─ backend architecture
+│  ├─ system design
+│  └─ automation tooling
 │
 ├─ 🧠 interests
 │  ├─ software architecture
-│  ├─ AI tooling
-│  ├─ local-first systems
-│  └─ self-hosted infrastructure
+│  ├─ AI-assisted development
+│  ├─ local inference
+│  └─ developer tooling
 │
 ├─ 🐧 environment
 │  ├─ Linux user
-│  ├─ Docker enjoyer
-│  └─ terminal-friendly workflow
+│  ├─ Containers
+│  ├─ WSL
+│  └─ VS Code
 │
 └─ ☕ misc
    ├─ coffee / tea
    ├─ gaming
-   └─ currently learning Rust
+   └─ always learning new things
 ```
 
 ---
@@ -55,34 +56,51 @@ stack/
 │  ├─ TypeScript
 │  ├─ JavaScript
 │  ├─ Python
-│  ├─ Rust
-│  └─ Shell
+│  └─ Rust
 │
 ├─ ⚙️ backend
 │  ├─ ASP.NET Core
 │  ├─ Entity Framework Core
 │  ├─ REST APIs
-│  └─ SignalR
+│  ├─ WebSockets
+│  └─ authentication & authorization
 │
 ├─ 🎨 frontend
 │  ├─ React
 │  ├─ TypeScript
 │  ├─ Mantine UI
-│  └─ Markdown
+│  ├─ TanStack
+│  └─ Blazor
 │
 ├─ 🗄️ databases
 │  ├─ PostgreSQL
-│  └─ SQLite
+│  ├─ SQLite
+│  └─ database design
 │
 ├─ 🧱 infrastructure
 │  ├─ Linux
-│  ├─ Docker
+│  ├─ Containers
 │  ├─ WSL
-│  └─ self-hosted tools
+│  └─ deployment workflows
 │
 └─ 🤖 ai-tooling
    ├─ Azure AI
-   ├─ Ollama
+   ├─ OpenCode
+   ├─ llama.cpp
    ├─ RAG
-   └─ agent workflows
+   └─ workflows
+```
+
+---
+
+## 🧪 Favorite Topics
+
+```txt
+topics/
+├─ software architecture
+├─ local-first AI systems
+├─ developer automation
+├─ infrastructure tooling
+├─ frontend UX for complex tools
+└─ making things work reliably
 ```
